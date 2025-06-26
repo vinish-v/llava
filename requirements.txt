@@ -1,3 +1,6 @@
 flask
 pillow
 llama-cpp-python
+torch
+transformers
+Pillow
