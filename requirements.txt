@@ -1,0 +1,3 @@
+flask
+pillow
+llama-cpp-python
